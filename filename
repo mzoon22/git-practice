@@ -1,8 +1,0 @@
-total 1.7M
-drwxr-xr-x 1 mzoon22 197121    0 Nov 30 18:31 ./
-drwxr-xr-x 1 mzoon22 197121    0 Nov 30 18:17 ../
-drwxr-xr-x 1 mzoon22 197121    0 Nov 30 18:31 .git/
--rw-r--r-- 1 mzoon22 197121    0 Nov 30 18:31 filename
--rw-r--r-- 1 mzoon22 197121 909K Nov 30 17:14 haar_face.xml
--rw-r--r-- 1 mzoon22 197121 703K Nov 30 17:14 haar_mouth.xml
--rw-r--r-- 1 mzoon22 197121 1.2K Nov 30 17:31 opensource.py
